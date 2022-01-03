@@ -1,0 +1,14 @@
+.intro {
+text-align: center;
+background-color: aqua;
+}
+.contact{
+  display: inline;
+}
+ img{
+ 
+  height: 300px;
+  width: 300px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
